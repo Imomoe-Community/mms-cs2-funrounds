@@ -1,0 +1,6 @@
+* text=auto eol=lf
+*.cpp eol=lf
+*.h eol=lf
+*.hpp eol=lf
+*.py eol=lf
+
